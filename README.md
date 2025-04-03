@@ -1,1 +1,1 @@
-# diab
+# Disease-Prediction-System
